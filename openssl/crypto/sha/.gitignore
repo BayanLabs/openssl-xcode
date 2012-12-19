@@ -1,0 +1,7 @@
+/lib
+/sha1_one.o
+/sha1dgst.o
+/sha256.o
+/sha512.o
+/sha_dgst.o
+/sha_one.o
